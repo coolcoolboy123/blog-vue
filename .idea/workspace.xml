@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dcbd816-fd7f-424f-8ff1-e1fdaae38d0d" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/sg-blog-vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/.env.staging" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/content/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/content/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/content/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/content/tag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/content/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/system/role.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/api/system/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/404_images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/404_images/404_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/404.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/build.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/cascader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/checkbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/color.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/component.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/date-range.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/date.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/dict.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/documentation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/drag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/druid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/education.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/example.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/excel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/exit-fullscreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/eye-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/form.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/fullscreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/guide.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/input.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/international.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/job.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/language.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/log.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/logininfor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/money.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/monitor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/nested.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/number.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/online.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/password.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/people.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/peoples.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/post.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/qq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/question.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/radio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/rate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/redis.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/row.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/select.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/server.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/shopping.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/size.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/skill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/slider.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/swagger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/switch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/system.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/textarea.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/theme.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/time-range.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/time.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/tool.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/tree-table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/validCode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/wechat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svg/zip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/icons/svgo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/images/dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/images/light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/images/login-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/assets/images/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/components/Hamburger/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/components/ParentView/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/components/SvgIcon/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/directive/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/directive/permission/hasPermission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/AppMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/InnerLink/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/Sidebar/FixiOSBug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/Sidebar/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/Sidebar/Link.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/layout/mixin/ResizeHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/plugins/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/plugins/cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/plugins/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/store/modules/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/store/modules/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/store/modules/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/styles/element-ui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/styles/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/styles/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/styles/transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/downloadService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/errorCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/get-page-title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/jscencrypt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/sg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/utils/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/content/article/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/content/article/write/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/content/category/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/content/link/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/content/tag/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/dashboard/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/login/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/system/menu/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/system/role/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/src/views/system/user/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/components/Breadcrumb.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/components/Hamburger.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/components/SvgIcon.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/utils/formatTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/utils/param2Obj.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/utils/parseTime.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/tests/unit/utils/validate.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sg-vue-admin/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/.env.development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/.env.production" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/.env.production" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/aboutme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/aimee/QQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/aimee/erwm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/aimee/gzh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/aimee/meishi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/aimee/wechat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/footer01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headbg02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headbg03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headbg04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headbg05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headbg05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headtou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/headtou02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/heart.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/mao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/maoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/message0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/qinlh/qq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/qinlh/wechat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/snjz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/tou.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/tou.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/tou.png" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/tou.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/web.ico" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/img/web.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/7.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/dist/static/js/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sg-blog-vue/src/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/sg-blog-vue/src/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PhJgJZ7lJAvAitU72iB5YfGJPe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1dcbd816-fd7f-424f-8ff1-e1fdaae38d0d" name="变更" comment="" />
+      <created>1683903491528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683903491528</updated>
+      <workItem from="1683903494280" duration="478000" />
+      <workItem from="1683906371001" duration="228000" />
+      <workItem from="1684120375126" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
